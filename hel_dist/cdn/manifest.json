@@ -9,6 +9,11 @@
       "exports": [
         "App",
         "HelloWorld",
+        "RocketDesc",
+        "RocketForm",
+        "RocketRenderPlugin",
+        "RocketTable",
+        "SearchForm",
         "TcBadge",
         "TcBlock",
         "TcButton",

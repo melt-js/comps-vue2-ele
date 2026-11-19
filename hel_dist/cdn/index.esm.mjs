@@ -64,9 +64,14 @@ var TcTabs = dtlib.TcTabs;
 var TcTag = dtlib.TcTag;
 var TcTimePicker = dtlib.TcTimePicker;
 var TcTree = dtlib.TcTree;
+var RocketForm = dtlib.RocketForm;
+var RocketTable = dtlib.RocketTable;
+var SearchForm = dtlib.SearchForm;
+var RocketDesc = dtlib.RocketDesc;
+var RocketRenderPlugin = dtlib.RocketRenderPlugin;
 var utilLib = dtlib.utilLib;
 var utils = dtlib.utils;
 var directives = dtlib.directives;
 var locale = dtlib.locale;
 
-export { App, HelloWorld, TcBadge, TcBlock, TcButton, TcButtonGroup, TcCheckbox, TcCheckboxButton, TcCheckboxGroup, TcClamp, TcDatePicker, TcDateTimePicker, TcDialog, TcFieldset, TcFixedBottom, TcForm, TcFormItem, TcIcon, TcInput, TcInputMoney, TcInputNumber, TcInputPhone, TcInputTag, TcLetterAvatar, TcLoading, TcMore, TcPager, TcRadio, TcRadioButton, TcRadioGroup, TcSelect, TcSkeleton, TcSwitch, TcTabs, TcTag, TcTimePicker, TcTree, TierRanking, dtlib as default, directives, dtlib, install, locale, utilLib, utils, version };
+export { App, HelloWorld, RocketDesc, RocketForm, RocketRenderPlugin, RocketTable, SearchForm, TcBadge, TcBlock, TcButton, TcButtonGroup, TcCheckbox, TcCheckboxButton, TcCheckboxGroup, TcClamp, TcDatePicker, TcDateTimePicker, TcDialog, TcFieldset, TcFixedBottom, TcForm, TcFormItem, TcIcon, TcInput, TcInputMoney, TcInputNumber, TcInputPhone, TcInputTag, TcLetterAvatar, TcLoading, TcMore, TcPager, TcRadio, TcRadioButton, TcRadioGroup, TcSelect, TcSkeleton, TcSwitch, TcTabs, TcTag, TcTimePicker, TcTree, TierRanking, dtlib as default, directives, dtlib, install, locale, utilLib, utils, version };

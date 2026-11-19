@@ -68,6 +68,11 @@
   var TcTag = dtlib.TcTag;
   var TcTimePicker = dtlib.TcTimePicker;
   var TcTree = dtlib.TcTree;
+  var RocketForm = dtlib.RocketForm;
+  var RocketTable = dtlib.RocketTable;
+  var SearchForm = dtlib.SearchForm;
+  var RocketDesc = dtlib.RocketDesc;
+  var RocketRenderPlugin = dtlib.RocketRenderPlugin;
   var utilLib = dtlib.utilLib;
   var utils = dtlib.utils;
   var directives = dtlib.directives;
@@ -75,6 +80,11 @@
 
   exports.App = App;
   exports.HelloWorld = HelloWorld;
+  exports.RocketDesc = RocketDesc;
+  exports.RocketForm = RocketForm;
+  exports.RocketRenderPlugin = RocketRenderPlugin;
+  exports.RocketTable = RocketTable;
+  exports.SearchForm = SearchForm;
   exports.TcBadge = TcBadge;
   exports.TcBlock = TcBlock;
   exports.TcButton = TcButton;
