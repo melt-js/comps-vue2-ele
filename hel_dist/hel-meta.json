@@ -3,30 +3,30 @@
     "name": "comps-vue2-ele",
     "app_group_name": "comps-vue2-ele",
     "git_repo_url": "",
-    "online_version": "2026.11.17-1",
-    "build_version": "2026.11.17-1"
+    "online_version": "2026.11.22",
+    "build_version": "2026.11.22"
   },
   "version": {
     "plugin_ver": "4.3.20",
     "extract_mode": "build",
     "sub_app_name": "comps-vue2-ele",
-    "sub_app_version": "2026.11.17-1",
+    "sub_app_version": "2026.11.22",
     "src_map": {
       "webDirPath": "/comps-vue2-ele/hel_dist",
       "htmlIndexSrc": "/comps-vue2-ele/hel_dist/index.html",
       "extractMode": "all",
       "iframeSrc": "",
       "chunkCssSrcList": [
-        "/comps-vue2-ele/hel_dist/css/chunk-23ba8c46.95396741.css",
-        "/comps-vue2-ele/hel_dist/css/chunk-3764eb23.95396741.css",
-        "/comps-vue2-ele/hel_dist/css/app.cb2ee135.css"
+        "/comps-vue2-ele/hel_dist/css/chunk-01042043.95396741.css",
+        "/comps-vue2-ele/hel_dist/css/chunk-1997354e.95396741.css",
+        "/comps-vue2-ele/hel_dist/css/app.24d5931b.css"
       ],
       "chunkJsSrcList": [
-        "/comps-vue2-ele/hel_dist/js/runtime.969b2cb7.js",
-        "/comps-vue2-ele/hel_dist/js/vendor.5d160ff3.js",
-        "/comps-vue2-ele/hel_dist/js/app.a832744d.js",
-        "/comps-vue2-ele/hel_dist/js/chunk-23ba8c46.7336185b.js",
-        "/comps-vue2-ele/hel_dist/js/chunk-3764eb23.1734f8f5.js"
+        "/comps-vue2-ele/hel_dist/js/runtime.5c99c2d7.js",
+        "/comps-vue2-ele/hel_dist/js/vendor.315b1ae4.js",
+        "/comps-vue2-ele/hel_dist/js/app.47ebff26.js",
+        "/comps-vue2-ele/hel_dist/js/chunk-01042043.ebf8ab51.js",
+        "/comps-vue2-ele/hel_dist/js/chunk-1997354e.2344ef43.js"
       ],
       "staticCssSrcList": [],
       "staticJsSrcList": [
@@ -46,7 +46,7 @@
           "tag": "link",
           "append": true,
           "attrs": {
-            "href": "/comps-vue2-ele/hel_dist/css/chunk-23ba8c46.95396741.css",
+            "href": "/comps-vue2-ele/hel_dist/css/chunk-01042043.95396741.css",
             "rel": "prefetch"
           }
         },
@@ -54,7 +54,7 @@
           "tag": "link",
           "append": true,
           "attrs": {
-            "href": "/comps-vue2-ele/hel_dist/css/chunk-3764eb23.95396741.css",
+            "href": "/comps-vue2-ele/hel_dist/css/chunk-1997354e.95396741.css",
             "rel": "prefetch"
           }
         },
@@ -62,7 +62,7 @@
           "tag": "link",
           "append": true,
           "attrs": {
-            "href": "/comps-vue2-ele/hel_dist/js/chunk-23ba8c46.7336185b.js",
+            "href": "/comps-vue2-ele/hel_dist/js/chunk-01042043.ebf8ab51.js",
             "rel": "prefetch"
           }
         },
@@ -70,7 +70,7 @@
           "tag": "link",
           "append": true,
           "attrs": {
-            "href": "/comps-vue2-ele/hel_dist/js/chunk-3764eb23.1734f8f5.js",
+            "href": "/comps-vue2-ele/hel_dist/js/chunk-1997354e.2344ef43.js",
             "rel": "prefetch"
           }
         },
@@ -78,7 +78,7 @@
           "tag": "link",
           "append": true,
           "attrs": {
-            "href": "/comps-vue2-ele/hel_dist/css/app.cb2ee135.css",
+            "href": "/comps-vue2-ele/hel_dist/css/app.24d5931b.css",
             "rel": "preload",
             "as": "style"
           }
@@ -87,7 +87,7 @@
           "tag": "link",
           "append": true,
           "attrs": {
-            "href": "/comps-vue2-ele/hel_dist/js/app.a832744d.js",
+            "href": "/comps-vue2-ele/hel_dist/js/app.47ebff26.js",
             "rel": "preload",
             "as": "script"
           }
@@ -96,7 +96,7 @@
           "tag": "link",
           "append": true,
           "attrs": {
-            "href": "/comps-vue2-ele/hel_dist/js/runtime.969b2cb7.js",
+            "href": "/comps-vue2-ele/hel_dist/js/runtime.5c99c2d7.js",
             "rel": "preload",
             "as": "script"
           }
@@ -105,7 +105,7 @@
           "tag": "link",
           "append": true,
           "attrs": {
-            "href": "/comps-vue2-ele/hel_dist/js/vendor.5d160ff3.js",
+            "href": "/comps-vue2-ele/hel_dist/js/vendor.315b1ae4.js",
             "rel": "preload",
             "as": "script"
           }
@@ -114,7 +114,7 @@
           "tag": "link",
           "append": true,
           "attrs": {
-            "href": "/comps-vue2-ele/hel_dist/css/app.cb2ee135.css",
+            "href": "/comps-vue2-ele/hel_dist/css/app.24d5931b.css",
             "rel": "stylesheet"
           }
         }
@@ -124,35 +124,35 @@
           "tag": "script",
           "append": true,
           "attrs": {
-            "src": "/comps-vue2-ele/hel_dist/js/runtime.969b2cb7.js"
+            "src": "/comps-vue2-ele/hel_dist/js/runtime.5c99c2d7.js"
           }
         },
         {
           "tag": "script",
           "append": true,
           "attrs": {
-            "src": "/comps-vue2-ele/hel_dist/js/vendor.5d160ff3.js"
+            "src": "/comps-vue2-ele/hel_dist/js/vendor.315b1ae4.js"
           }
         },
         {
           "tag": "script",
           "append": true,
           "attrs": {
-            "src": "/comps-vue2-ele/hel_dist/js/app.a832744d.js"
+            "src": "/comps-vue2-ele/hel_dist/js/app.47ebff26.js"
           }
         }
       ],
       "otherSrcList": [
-        "/comps-vue2-ele/hel_dist/css/app.cb2ee135.css.gz",
+        "/comps-vue2-ele/hel_dist/css/app.24d5931b.css.gz",
         "/comps-vue2-ele/hel_dist/favicon.ico",
         "/comps-vue2-ele/hel_dist/img/logo.82b9c7a5.png",
         "/comps-vue2-ele/hel_dist/index.html",
-        "/comps-vue2-ele/hel_dist/js/app.a832744d.js.gz",
-        "/comps-vue2-ele/hel_dist/js/chunk-23ba8c46.7336185b.js.gz",
-        "/comps-vue2-ele/hel_dist/js/chunk-3764eb23.1734f8f5.js.gz",
-        "/comps-vue2-ele/hel_dist/js/vendor.5d160ff3.js.gz"
+        "/comps-vue2-ele/hel_dist/js/app.47ebff26.js.gz",
+        "/comps-vue2-ele/hel_dist/js/chunk-01042043.ebf8ab51.js.gz",
+        "/comps-vue2-ele/hel_dist/js/chunk-1997354e.2344ef43.js.gz",
+        "/comps-vue2-ele/hel_dist/js/vendor.315b1ae4.js.gz"
       ]
     },
-    "html_content": "<!DOCTYPE html><html lang=\"\"><head><meta charset=\"utf-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><title>tpl-remote-vue-comp</title><script src=\"https://cdn.staticfile.org/vue/2.7.16/vue.min.js\"></script><link href=\"/comps-vue2-ele/hel_dist/css/chunk-23ba8c46.95396741.css\" rel=\"prefetch\"><link href=\"/comps-vue2-ele/hel_dist/css/chunk-3764eb23.95396741.css\" rel=\"prefetch\"><link href=\"/comps-vue2-ele/hel_dist/js/chunk-23ba8c46.7336185b.js\" rel=\"prefetch\"><link href=\"/comps-vue2-ele/hel_dist/js/chunk-3764eb23.1734f8f5.js\" rel=\"prefetch\"><link href=\"/comps-vue2-ele/hel_dist/css/app.cb2ee135.css\" rel=\"preload\" as=\"style\"><link href=\"/comps-vue2-ele/hel_dist/js/app.a832744d.js\" rel=\"preload\" as=\"script\"><link href=\"/comps-vue2-ele/hel_dist/js/runtime.969b2cb7.js\" rel=\"preload\" as=\"script\"><link href=\"/comps-vue2-ele/hel_dist/js/vendor.5d160ff3.js\" rel=\"preload\" as=\"script\"><link href=\"/comps-vue2-ele/hel_dist/css/app.cb2ee135.css\" rel=\"stylesheet\"></head><body><noscript><strong>We're sorry but @melt-js/comps-vue2-ele doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=\"app\"></div><script src=\"/comps-vue2-ele/hel_dist/js/runtime.969b2cb7.js\"></script><script src=\"/comps-vue2-ele/hel_dist/js/vendor.5d160ff3.js\"></script><script src=\"/comps-vue2-ele/hel_dist/js/app.a832744d.js\"></script></body></html>"
+    "html_content": "<!DOCTYPE html><html lang=\"\"><head><meta charset=\"utf-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><title>tpl-remote-vue-comp</title><script src=\"https://cdn.staticfile.org/vue/2.7.16/vue.min.js\"></script><link href=\"/comps-vue2-ele/hel_dist/css/chunk-01042043.95396741.css\" rel=\"prefetch\"><link href=\"/comps-vue2-ele/hel_dist/css/chunk-1997354e.95396741.css\" rel=\"prefetch\"><link href=\"/comps-vue2-ele/hel_dist/js/chunk-01042043.ebf8ab51.js\" rel=\"prefetch\"><link href=\"/comps-vue2-ele/hel_dist/js/chunk-1997354e.2344ef43.js\" rel=\"prefetch\"><link href=\"/comps-vue2-ele/hel_dist/css/app.24d5931b.css\" rel=\"preload\" as=\"style\"><link href=\"/comps-vue2-ele/hel_dist/js/app.47ebff26.js\" rel=\"preload\" as=\"script\"><link href=\"/comps-vue2-ele/hel_dist/js/runtime.5c99c2d7.js\" rel=\"preload\" as=\"script\"><link href=\"/comps-vue2-ele/hel_dist/js/vendor.315b1ae4.js\" rel=\"preload\" as=\"script\"><link href=\"/comps-vue2-ele/hel_dist/css/app.24d5931b.css\" rel=\"stylesheet\"></head><body><noscript><strong>We're sorry but @melt-js/comps-vue2-ele doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=\"app\"></div><script src=\"/comps-vue2-ele/hel_dist/js/runtime.5c99c2d7.js\"></script><script src=\"/comps-vue2-ele/hel_dist/js/vendor.315b1ae4.js\"></script><script src=\"/comps-vue2-ele/hel_dist/js/app.47ebff26.js\"></script></body></html>"
   }
 }
